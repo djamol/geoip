@@ -1,1 +1,2 @@
 # geoip
+For Awstats Installation
